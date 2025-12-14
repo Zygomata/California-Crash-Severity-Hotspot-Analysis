@@ -212,7 +212,7 @@ Potential extensions of the project:
 
 
 
-  [Download the PDF](path/to/report.pdf)
+  [Download the PDF]([https://github.com/Zygomata/California-Crash-Severity-Hotspot-Analysis/blob/main/D610_Task_2_writeup.pdf])
   
 </html>
 
